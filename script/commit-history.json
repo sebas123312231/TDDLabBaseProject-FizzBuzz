@@ -152,17 +152,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "689979cd3da766dc5b376f3c2b997f95be9ab389",
     "author": "sebas123312231",
     "commit": {
       "date": "2026-08-27T14:04:17.000Z",
       "message": "Noveno ciclo",
-      "url": "https://github.com/sebas123312231/TDDLabBaseProject-FizzBuzz/commit/HEAD"
+      "url": "https://github.com/sebas123312231/TDDLabBaseProject-FizzBuzz/commit/689979cd3da766dc5b376f3c2b997f95be9ab389"
     },
     "stats": {
       "total": 4,
       "additions": 4,
       "deletions": 0,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "sebas123312231",
+    "commit": {
+      "date": "2026-08-27T14:20:16.000Z",
+      "message": "Implementacion de ui",
+      "url": "https://github.com/sebas123312231/TDDLabBaseProject-FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 44,
+      "additions": 20,
+      "deletions": 24,
       "date": "2026-08-27"
     },
     "coverage": 100,
