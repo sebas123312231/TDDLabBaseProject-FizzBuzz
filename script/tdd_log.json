@@ -148,9 +148,23 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "f183ca815163a97c0095c7346710f3796d6544bb",
     "commitName": "Septimo ciclo",
     "commitTimestamp": 1787839329417,
     "testId": 6
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1787839369925,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Octavo ciclo",
+    "commitTimestamp": 1787839399479,
+    "testId": 7
   }
 ]
