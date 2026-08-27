@@ -9,7 +9,7 @@ ingresa 25 -> "Buzz"
 ingresa 15 -> "FizzBuzz"
 ingresa 30 -> "FizzBuzz"
 ingresa 2 -> "2"
-ingresa 1 -> "1git"*/
+ingresa 1 -> "1"*/
 
 describe("FizzBuzz", () => {
   it("deberia devolver elmismo numero si no sigue una regla", () => {
@@ -34,6 +34,10 @@ describe("FizzBuzz", () => {
 
   it("deberia devolver FizzBuzz si es multiplo de 3 y 5", () => {
     expect(fizzbuzz(15)).toEqual("FizzBuzz");
+  });
+
+  it("deberia devolver FizzBuzz si es multiplo de 3 y 5", () => {
+    expect(fizzbuzz(30)).toEqual("FizzBuzz");
   });
 });
 
