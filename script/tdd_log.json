@@ -76,9 +76,23 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "b8908ee7788370c30be8f6424f3b973f90c4068e",
     "commitName": "Tercer ciclo",
     "commitTimestamp": 1787839007380,
     "testId": 2
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1787839092045,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Cuarto ciclo",
+    "commitTimestamp": 1787839107952,
+    "testId": 3
   }
 ]
