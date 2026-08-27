@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "574d8ea3a2795abf33358bfa5569a8de88fafd44",
     "author": "sebas123312231",
     "commit": {
       "date": "2026-08-27T13:59:13.000Z",
       "message": "Quinto ciclo",
-      "url": "https://github.com/sebas123312231/TDDLabBaseProject-FizzBuzz/commit/HEAD"
+      "url": "https://github.com/sebas123312231/TDDLabBaseProject-FizzBuzz/commit/574d8ea3a2795abf33358bfa5569a8de88fafd44"
     },
     "stats": {
       "total": 0,
@@ -91,6 +91,25 @@
     },
     "coverage": 77.78,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "sebas123312231",
+    "commit": {
+      "date": "2026-08-27T14:00:36.000Z",
+      "message": "Sexto ciclo",
+      "url": "https://github.com/sebas123312231/TDDLabBaseProject-FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 8,
+      "deletions": 0,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }

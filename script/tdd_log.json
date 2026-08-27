@@ -104,9 +104,31 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "574d8ea3a2795abf33358bfa5569a8de88fafd44",
     "commitName": "Quinto ciclo",
     "commitTimestamp": 1787839155063,
     "testId": 4
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1787839200136,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1787839208309,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Sexto ciclo",
+    "commitTimestamp": 1787839237201,
+    "testId": 5
   }
 ]
