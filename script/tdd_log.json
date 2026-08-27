@@ -48,9 +48,15 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "939613840bcb3dbc3be80e223b2417c5304a6345",
     "commitName": "Primera ciclo",
     "commitTimestamp": 1787838767712,
     "testId": 0
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Segundo ciclo",
+    "commitTimestamp": 1787838888061,
+    "testId": 1
   }
 ]
