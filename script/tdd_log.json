@@ -54,9 +54,31 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "14ddeb30ebb6d5480d102830e8ee90c0a2aff308",
     "commitName": "Segundo ciclo",
     "commitTimestamp": 1787838888061,
     "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1787838916850,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1787838979844,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Tercer ciclo",
+    "commitTimestamp": 1787839007380,
+    "testId": 2
   }
 ]
