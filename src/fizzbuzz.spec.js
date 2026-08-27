@@ -43,5 +43,9 @@ describe("FizzBuzz", () => {
   it("deberia devolver el mismo numero si no es multiplo de 3 ni de 5", () => {
     expect(fizzbuzz(2)).toEqual(2);
   });
+
+  it("deberia devolver el mismo numero si no es multiplo de 3 ni de 5", () => {
+    expect(fizzbuzz(1)).toEqual(1);
+  });
 });
 
